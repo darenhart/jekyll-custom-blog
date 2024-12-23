@@ -9,3 +9,7 @@ https://jekyllrb.com/docs/installation/
 ```bash
 bundle exec jekyll serve
 ```
+
+## Overriding theme:
+
+https://jekyllrb.com/docs/themes/#overriding-theme-defaults
